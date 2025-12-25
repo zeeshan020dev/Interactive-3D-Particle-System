@@ -58,4 +58,4 @@ No installation required! This is a vanilla JS project.
 MIT License. Feel free to use this as a base for your own AI experiments!
 
 ---
-*Created by Muhammad Zeeshan Islam - Powered by Prompt Engineering.*
+*Created by Muhammad Zeeshan Islam - Co-Founder of Unicodrex & Technical Associate of Skill Sprint, Powered by Prompt Engineering.*
