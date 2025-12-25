@@ -12,7 +12,6 @@ This project is a real-time, interactive 3D particle system controlled entirely 
 The application utilizes **MediaPipe** for skeletal hand tracking and **Three.js** for high-performance WebGL rendering, mapping 2D hand coordinates to a 3D volumetric space.
 
 ### 🔴 [Live Demo](https://zeeshan020dev.github.io/Interactive-3D-Particle-System/) 
-*(See "Deployment" below to enable this link)*
 
 ---
 
