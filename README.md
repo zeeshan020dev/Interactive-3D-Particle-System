@@ -61,7 +61,7 @@ MIT License. Feel free to use this as a base for your own AI experiments!
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 
-Co-Founder – Unicodrex | Technical Lead – Skill Sprint
+Co-Founder – Unicodrex | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
