@@ -54,7 +54,7 @@ No installation required! This is a vanilla JS project.
     * *Note: For MediaPipe to work correctly locally, it is recommended to use a local server (like Live Server in VS Code) due to browser security policies regarding webcams.*
 
 ## 📄 License
-MIT License. Feel free to use this as a base for your own AI experiments!
+MIT License. Feel free to use this as a base for your own AI experiments.
 
 ---
 ## 👤 Author
